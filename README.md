@@ -127,5 +127,5 @@ printf("Running ps with execlp. Now with path specified\n");
 
 
 
-# RESULT:
+## RESULT:
 The programs are executed successfully.
